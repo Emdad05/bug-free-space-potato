@@ -11,6 +11,9 @@
   ],
   "description": "Shellrunner Telegram bot",
   "homepage": "https://github.com/botgram/shell-bot",
+  "scripts": {
+            "start" : "node server.js" },
+  
   "dependencies": {
     "botgram": "^2.2.0",
     "escape-html": "^1.0.3",
